@@ -36,6 +36,8 @@
 - [My Shell](https://myshell.ai/tools/ai-tattoo-generator): AI platform with a tattoo generator that produces personalized designs from detailed descriptions.
 - [Bylo.ai](https://bylo.ai/features/ai-tattoo-generator): AI tool that transforms text descriptions into high-quality tattoo artwork in various styles.
 
+- [InkPreview – AI Tattoo Generator](https://inkpreview.co): Free browser-based generator with on-skin preview—see the design on your own photo, export a stencil
+
 ## 💰 Paid Services
 
 - [Fotor — AI Tattoo Generator](https://fotor.com): Turns text prompts into tattoo designs with styles from minimalist to colorful; includes editing tools for customization.
